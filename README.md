@@ -17,6 +17,21 @@ Server performance monitoring system for CPU, memory, disk usage, and statistics
 
 
 ---
+### List of Content
+1. [Getting Started](#getting-started)
+   1. [Initialization](#initialization)
+      1. [Nginx as Web Service](#nginx-as-web-service)
+      2. [MySQL as Database](#mysql-as-database)
+   2. [Prometheus](#prometheus)
+   3. [Grafana](#grafana)
+   4. [Netdata](#netdata)
+   5. [More Configuration](#more-configuration)
+2. [Flow](#flow)
+3. [Running Public](#running-public)
+4. [Testing](#testing)
+5. [Conclusion](#conclusion)
+
+---
 ## Getting Started
 
 1. Cek IP Address
